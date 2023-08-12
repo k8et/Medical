@@ -24,7 +24,7 @@ const Footer = () => {
                 </div>
                 <div className={styles.infoContactPos}>
                     <p>Если вы не нашли нужную информацию — свяжитесь с нами удобным для вас способом</p>
-                    <span><NumSvg style={'#3db2f1'}/>8(986) 713-79-70</span>
+                    <span><NumSvg style={'#3db2f1'}/>380(96) 713-79-70</span>
                 </div>
             </div>
             <div className={styles.footer}>

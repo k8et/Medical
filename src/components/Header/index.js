@@ -28,7 +28,7 @@ const Header = () => {
             <div className={styles.firstHeader}>
                 <div className={styles.imgNum}>
                     <NumSvg style={'white'} />
-                    <p>8(986) 713-79-70</p>
+                    <p>380(96) 713-79-70</p>
                 </div>
                 <div>
                     <button className={styles.btn} onClick={toggleModal}>ЗАПИСАТЬСЯ НА ПРИЕМ</button>
